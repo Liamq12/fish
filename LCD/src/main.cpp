@@ -5,7 +5,6 @@
 #include <LiquidCrystal.h>
 
 // Code based on arduino LCD example
-// I would suggjust a plexiglass shield over the LCD to prevent guests from pressing on it to hard
 
 // To generate a code, the program generates a procedural random sequence of numbers based on the date which it matched to the keypad
 // To ensure it does not exceed its memory limit, the numbers in the procedural generation sequence are used as checks multiple times
